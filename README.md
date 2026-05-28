@@ -134,17 +134,6 @@ Create admin account and complete setup.
 
 ---
 
-## 🔮 Future Improvements
-
-- [ ] Add swap memory for better stability
-- [ ] Set up HTTPS with SSL certificate
-- [ ] Configure external storage
-- [ ] Enable remote access from outside home network
-- [ ] Set up automated backups
-- [ ] Migrate to MySQL database for better performance
-
----
-
 ## 👤 Author
 
 - GitHub: [shafinalam07](https://github.com/shafinalam07)
