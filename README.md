@@ -129,7 +129,7 @@ Create admin account and complete setup.
 - SSH remote access and server management
 - Docker containerization
 - Self-hosting web applications
-- Network configuration and troubleshooting
+- Network configuration and troubleshooting 
 - Raspberry Pi setup and configuration
 
 ---
